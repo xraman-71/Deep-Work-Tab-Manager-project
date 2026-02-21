@@ -1,4 +1,4 @@
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-blue?style=for-the-badge)](https://your-username.github.io/deep-work-tab-manager)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-blue?style=for-the-badge)] (https://xraman-71.github.io/Deep-Work-Tab-Manager-project/)
 
 # Deep-Work — Tab Manager
 
