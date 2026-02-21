@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-blue?style=for-the-badge)](https://your-username.github.io/deep-work-tab-manager)
+
 # Deep-Work — Tab Manager
 
 <!-- SEO Keywords: tab manager, browser tab organizer, session manager, productivity tool, vanilla javascript, tab saver, browser organization, workspace manager, tab groups, browser productivity -->
